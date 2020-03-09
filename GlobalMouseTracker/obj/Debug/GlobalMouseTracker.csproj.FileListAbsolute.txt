@@ -1,0 +1,9 @@
+D:\Utrecht\Study 1\GlobalMouseTracker\GlobalMouseTracker\bin\Debug\GlobalMouseTracker.exe
+D:\Utrecht\Study 1\GlobalMouseTracker\GlobalMouseTracker\bin\Debug\GlobalMouseTracker.pdb
+D:\Utrecht\Study 1\GlobalMouseTracker\GlobalMouseTracker\obj\Debug\GlobalMouseTracker.csprojResolveAssemblyReference.cache
+D:\Utrecht\Study 1\GlobalMouseTracker\GlobalMouseTracker\obj\Debug\GlobalMouseTracker.Properties.Resources.resources
+D:\Utrecht\Study 1\GlobalMouseTracker\GlobalMouseTracker\obj\Debug\GlobalMouseTracker.csproj.GenerateResource.cache
+D:\Utrecht\Study 1\GlobalMouseTracker\GlobalMouseTracker\obj\Debug\GlobalMouseTracker.csproj.CoreCompileInputs.cache
+D:\Utrecht\Study 1\GlobalMouseTracker\GlobalMouseTracker\obj\Debug\GlobalMouseTracker.exe
+D:\Utrecht\Study 1\GlobalMouseTracker\GlobalMouseTracker\obj\Debug\GlobalMouseTracker.pdb
+D:\Utrecht\Study 1\GlobalMouseTracker\GlobalMouseTracker\obj\Debug\GlobalMouseTracker.Form1.resources
